@@ -1,0 +1,17 @@
+壁纸来源：Wallhaven（wallhaven.cc，免费壁纸网站，SFW）
+每张图的页面地址：https://wallhaven.cc/w/<id>
+
+hero.jpg            <- 6dpvpx  猫娘·逛街（横版主视觉）
+hero2.jpg           <- gpqxq3  猫娘·极简风（备用主视觉）
+banner-muse.jpg     <- 7p6wr3  Muse Dash 猫耳耳机娘
+banner-slime.jpg    <- 966rlx  猫娘·史莱姆
+banner-okayu.jpg    <- m9523m  猫又小粥（Nekomata Okayu）
+banner-blue.jpg     <- dpjylo  蓝发猫娘
+banner-dark.jpg     <- y8d6q7  黑背景猫娘（适合深色模式）
+banner-pink.jpg     <- x8zm3z  粉发猫耳
+banner-catpink.jpg  <- mdypk1  粉色系猫娘
+banner-white.jpg    <- ym9d6x  白发猫耳娘
+banner-wide.jpg     <- l8kg8l  Hololive 雪花菈米（超宽图）
+banner-dress.jpg    <- rr3ryw  旗袍猫娘
+portrait-lamy.jpg   <- d6xr5j  雪花菈米（竖版立绘）
+portrait-nao.jpg    <- m971pm  友利奈绪（竖版立绘）
